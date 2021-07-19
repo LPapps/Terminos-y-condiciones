@@ -11,7 +11,10 @@ Nuestra aplicación podrá recoger información personal por ejemplo: Nombre,  i
 
 Uso de la información recogida
 
-Nuestro sitio web emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios, de pedidos en caso que aplique, y mejorar nuestros productos y servicios.  LPapps no se responsabiliza por un mal uso de la aplicación.
+Nuestro sitio web emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios, de pedidos en caso que aplique, y mejorar nuestros productos y servicios. 
+LPapps no se responsabiliza por inconvenientes generados a causa de un uso indebido de la aplicación:
+ En caso de un problema, LPapps puede darle infomación personal de un dispositivo a terceros, siempre y cuando se use para resolver el problema.
+
 
 En cualquier momento usted puede restringir la recopilación o el uso de la información personal que es proporcionada a nuestra app.
 
